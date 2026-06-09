@@ -1,0 +1,40 @@
+# Personal dictionary
+# encoding: utf-8
+#
+---
+name: mydict
+version: "2026-03-08"
+sort: by_weight
+...
+# 注意这里第一列不要出现英文
+##### 动画制作流程
+一原	yi yuan
+二原	er yuan
+三原	san yuan
+原画	yuan hua
+作画监督	zuo hua jian du
+原画师	yuan hua shi
+动画师	dong hua shi
+分镜	fen jing
+演出	yan chu
+脚本	jiao ben
+系列构成	xi lie gou cheng
+系构	xi gou
+系列演出	xi lie yan chu
+构图	kou tu
+色彩设计	cai se she ji
+色指定	cai she ding
+色彩设定	se cai she ding
+数码摄影	shu mai ying she
+摄影监督	she ying jian du
+剪辑	jian ji
+编集	bian ji
+音响监督  yin xiang jian du
+音响制作  yin xiang zhi zuo
+制作进行	zhi zuo jin xing
+动画制作	dong hua zhi zuo
+作画补正	zuo hua bu zheng
+中割	zhong ge
+描线	miao xian
+数码检查	shu mai jian cha
+制作委员会	zhi zuo wei yuan hui

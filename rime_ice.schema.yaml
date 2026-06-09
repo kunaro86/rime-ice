@@ -157,7 +157,7 @@ reduce_english_filter:
 # pin_cand_filter.lua 末尾有常见编码可供直接复制参考
 pin_cand_filter:
   # 格式：编码<Tab>字词1<Space>字词2……
-  - d	的
+  - d	的 得 到
   - m	吗 嘛  # 置顶一个来覆盖 custom_phrase.txt 呒(ḿ) 呣(ḿ)
   - hm	后面   # 置顶一个来覆盖 custom_phrase.txt 噷(hm)
 
@@ -193,7 +193,7 @@ melt_eng:
 
 
 # 中英混合词汇
-cn_en:
+# cn_en:
   dictionary: ""
   user_dict: en_dicts/cn_en
   db_class: stabledb
